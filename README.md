@@ -70,7 +70,7 @@ Contribuições são bem-vindas! Para contribuir:
 ## Autores
 - [Jefferson De Souza Santo](https://github.com/JeffNoCode)
 - [Kauan Henriquen Barbosa da Costa](https://github.com/KauanH1300)
-- [Murilo Wiliam Trindade Guedes](https://github.com/MuriloWG).
+- [Murilo Wiliam Trindade Guedes](https://github.com/MuriloWG)
 
 
 ## Licença
