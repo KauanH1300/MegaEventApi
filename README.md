@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Para contribuir:
 1. Faça um fork do repositório:
    * Clique no botão Fork para criar uma cópia do repositório na sua conta.
 2. Clone o repositório forkado:
-   * [Como clonar o repositório](como-baixar-o-repositório)
+   * ![Como clonar o repositório](como-baixar-o-repositório)
 3. Crie uma nova branch para suas alterações:
    ```bash
    git checkout -b nome-da-sua-branch
