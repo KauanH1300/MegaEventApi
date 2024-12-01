@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Para contribuir:
 1. Faça um fork do repositório:
    * Clique no botão Fork para criar uma cópia do repositório na sua conta.
 2. Clone o repositório forkado:
-   * [Como Baixar o Repositório](#clonando-repositório)
+   * [[Como Baixar o Repositório](#clonando-repositório)](https://github.com/JeffNoCode/MegaEventApi/tree/main?tab=readme-ov-file#como-baixar-o-reposit%C3%B3rio)
 3. Crie uma nova branch para suas alterações:
    ```bash
    git checkout -b nome-da-sua-branch
