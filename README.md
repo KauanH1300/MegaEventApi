@@ -31,7 +31,7 @@ O MegaEvent API é uma aplicação desenvolvida para gerenciar eventos de forma 
 
 ## Pré-requisitos
 - Node.js (V 20.16.0)
-- MySql (V 3.11.5)
+- MySql (V 8.0.34)
 
 
 ## Contribuindo
