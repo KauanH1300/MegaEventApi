@@ -7,7 +7,7 @@ exports.createUser  = async (req, res) => {
         const user = await User.create(req.body);
         res.status(201).json(user);
     } catch (error) {
-        res.status(400).json({ error: error.message });
+        res.status(400).json({ error: "Erro ao criar conta, tente novamente!" });
     }
 };
 
