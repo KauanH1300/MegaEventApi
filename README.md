@@ -3,11 +3,33 @@
 ## Descrição do Projeto
 O MegaEvent API é uma aplicação desenvolvida para gerenciar eventos de forma prática e eficiente. A API oferece funcionalidades para criação, edição, inscrição e acompanhamento de eventos, permitindo um controle completo e integrado de todas as atividades relacionadas.
 
-![Imagem 1](link-para-imagem1)
-![Imagem 2](link-para-imagem2)
-![Imagem 3](link-para-imagem3)
-![Imagem 4](link-para-imagem4)
-![Imagem 5](link-para-imagem5)
+## Estrutura analítica do projeto (EAP)
+<div align="center">
+  <img src="https://github.com/KauanH1300/MegaEventApi/blob/main/megaeventdocs/images/4.jpg?raw=true" alt="EAP" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+## Gráfico de Gantt
+<div align="center">
+  <img src="https://github.com/KauanH1300/MegaEventApi/blob/main/megaeventdocs/images/7.jpg?raw=true" alt="EAP" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+## Fluxo de trabalho no repositório
+<div align="center">
+  <img src="https://github.com/KauanH1300/MegaEventApi/blob/main/megaeventdocs/images/9.jpg?raw=true" alt="EAP" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+## Exemplo de uso
+* Criando usuário
+  
+<div align="center">
+  <img src="https://github.com/KauanH1300/MegaEventApi/blob/main/megaeventdocs/images/api.png?raw=true" alt="EAP" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+* Criando evento
+  
+<div align="center">
+  <img src="https://github.com/KauanH1300/MegaEventApi/blob/main/megaeventdocs/images/api2.png?raw=true" alt="EAP" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ## Como Baixar o Repositório
 
