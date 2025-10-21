@@ -22,7 +22,7 @@ exports.createEvent = async (req, res) => {
 
 exports.getEvents = async (req, res) => {
     try {
-        const { date, location, name } = req.query;
+        const { date, location, name, event_type } = req.query;
 
         const where = {};
         if (date) {
@@ -40,7 +40,11 @@ exports.getEvents = async (req, res) => {
                 [Op.like]: `%${name}%`
             };
         }
-
+        if(event_type){
+            where.event_type = {
+                [Op.like]: `%${event_type}%`
+        }
+    }
         const events = await Event.findAll({
             where,
             attributes: ['id', 'name', 'location', 'date', 'event_type', 'available_slots']

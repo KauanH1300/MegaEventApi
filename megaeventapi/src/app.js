@@ -18,7 +18,7 @@ sequelize.sync()
         console.error('Erro ao sincronizar o banco de dados:', err);
     });
 
-// Usando as rotas
+
 app.use('/api/users', userRoutes);
 app.use('/api/events', eventRoutes);
 app.use('/api/registrations', registrationRoutes);
